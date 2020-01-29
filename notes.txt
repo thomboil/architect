@@ -1,0 +1,15 @@
+Acteurs:
+
+-Utilisateur
+ -Se connecter/ s'identifier
+ -Reserver la borne de charche
+ -Demarrer le processus de charge
+ -Obtenir le status de charge
+
+-Borne
+ - Demarrer le processus de charge
+
+-Systeme de Gestion
+ -Gestion des comptes d'utilisateurs
+ -operation de facturation
+ -Collecter statistiques
